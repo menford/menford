@@ -1,0 +1,59 @@
+shead{
+ background-image: url("716gX-d7IpL._AC_SL1280_.jpg");
+ 
+    
+}
+
+
+
+.navbar{
+   display: flex; 
+    flex-direction: row;
+    justify-content: flex-end;
+background-color:orchid;
+    
+    
+}
+
+    
+a{
+  text-transform: uppercase;
+    text-decoration: none;
+    list-style-type: none;  
+    color:white;
+    font-family: sans-serif;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    
+}
+    
+.sidebar{
+display: flex;
+flex-direction: row;
+   background-color:red;
+    color: floralwhite;
+}
+
+.image{
+    display: flex;
+flex-direction: row;
+    
+}
+.image img{
+    
+    width:150px;
+    height: 150px;
+}
+     
+
+        
+}
+
+body{    padding: 10px;
+       
+    
+}
+
+    
+

@@ -1,0 +1,78 @@
+body{
+  background-image: url("https://m.media-amazon.com/images/I/715XKRrFVAL._AC_SL1500_.jpg");
+background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+
+.container{
+  display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    background-color: coral;
+    border-radius: 5px;
+    
+}
+
+
+.container a{
+   text-transform: uppercase;
+    font-family: fantasy;
+    padding: 10px;
+    margin:10px;
+    font-size: 30px;
+    text-decoration: none;
+    color: blueviolet;
+    box-shadow:10px
+}
+.sidebar{
+     display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+
+
+
+
+
+
+
+.sidebar a{
+    text-transform: uppercase;
+    font-family: monospace;
+    padding:10px;
+    margin: 10px;
+    text-decoration: none;
+    color: yellow;
+    font-size: 30px;
+    
+}
+
+h1{
+    display: flex;
+    flex-direction: row;
+        justify-content: center;
+    
+    font-size: 100px;
+    color: yellow;
+    text-transform: uppercase;
+transform-style: preserve-3d;
+    
+}
+
+.image1 iframe{
+    width: 300spx;
+    height: 10s0px;
+    
+}
+
+
+    
+
+
+
+
